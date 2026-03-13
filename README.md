@@ -23,7 +23,7 @@ Enter the appropriate keys from your Twitter app in lines 11-15 of `get_tweets.p
 Finally you can run the script by entering one Twitter username at the command line:
 
 ```
-$ python get_tweets.py [twitter_username]
+$ python get_tweets.py [gasimsardi]
 ```
 
 #### More details on my blog:
